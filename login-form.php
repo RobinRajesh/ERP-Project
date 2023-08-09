@@ -24,7 +24,7 @@
                                     <i class="fa fa-user-o" aria-hidden="true" id="user"></i>
                                 </div>
                                 <div class="col-10 pl-0">
-                                    <input type="text" placeholder="Type your username" class='input-1'>
+                                    <input type="text" placeholder="Type your username" class='input-1' name="username">
                                 </div>
                             </div>
                             <hr class="hr-1">
@@ -39,7 +39,7 @@
                                     <i class="fa fa-lock" aria-hidden="true" id="lock"></i>
                                 </div>
                                 <div class="col-10 pl-0">
-                                    <input type="password" placeholder="Type your password" class="input-2">
+                                    <input type="password" placeholder="Type your password" class="input-2" name="password">
                                 </div>
                             </div>
                             <hr class="hr-2">
@@ -53,7 +53,8 @@
                     </div>
                     <div class="row mt-4">
                         <div class="col pl-5 pr-5">
-                            <a href="login-ecommerce.html"><span class="btn btn-block text-white login-button">login</span></a>
+                            if(name=)
+                            <a href="login-ecommerce.php"><span class="btn btn-block text-white login-button">login</span></a>
                         </div>
                     </div>
                     <div class="row mt-5">
