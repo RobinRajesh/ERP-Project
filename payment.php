@@ -384,7 +384,6 @@
               </div>
             </div>
         </div>
-
     </div>
     <!--footer-->
     <div class="container-fluid bg-dark text-white mt-5">
